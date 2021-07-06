@@ -1,0 +1,5 @@
+Credentials cache: API:3F546F51-BCF9-434B-9C60-8500C9F85C44
+        Principal: mhenders@42ABUDHABI.AE
+
+  Issued                Expires               Principal
+Jun 20 14:13:43 2021  Jun 21 00:13:33 2021  krbtgt/42ABUDHABI.AE@42ABUDHABI.AE
